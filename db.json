@@ -1,0 +1,76 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Shikha",
+      "gender": "Female",
+      "contactPreference": "Phone",
+      "phoneNumber": 9797979797,
+      "email": "shikha@s.com",
+      "dateOfBirth": "1988/07/07",
+      "department": "2",
+      "isActive": true,
+      "photoPath": "assets/images/Shikha.png"
+    },
+    {
+      "id": 2,
+      "name": "Lakshmi",
+      "gender": "Female",
+      "contactPreference": "Email",
+      "phoneNumber": 9898989898,
+      "email": "lakshmi@l.com",
+      "dateOfBirth": "1994/04/04",
+      "department": "4",
+      "isActive": true,
+      "photoPath": "assets/images/Lakshmi.png"
+    },
+    {
+      "id": 3,
+      "name": "Dhaval",
+      "gender": "Male",
+      "contactPreference": "Phone",
+      "phoneNumber": 9090909090,
+      "email": "",
+      "dateOfBirth": "1984-01-02T18:30:00.000Z",
+      "department": "3",
+      "isActive": false,
+      "photoPath": "assets/images/Dhaval.png"
+    },
+    {
+      "id": 4,
+      "name": "Sravani",
+      "gender": "Female",
+      "contactPreference": "Phone",
+      "phoneNumber": 9999999999,
+      "email": "",
+      "dateOfBirth": "1986/02/29",
+      "department": "3",
+      "isActive": false,
+      "photoPath": "assets/images/Sravani.png"
+    },
+    {
+      "id": 5,
+      "name": "Aravind",
+      "gender": "Male",
+      "contactPreference": "Phone",
+      "phoneNumber": 8989898989,
+      "email": "Aravind@a.com",
+      "dateOfBirth": "1982-08-07T18:30:00.000Z",
+      "department": "3",
+      "isActive": true,
+      "photoPath": "assets/images/Aravind.png"
+    },
+    {
+      "id": 6,
+      "name": "Raju",
+      "gender": "Male",
+      "contactPreference": "Email",
+      "phoneNumber": 7979797979,
+      "email": "Raju@s.com",
+      "dateOfBirth": "1984/02/14",
+      "department": "4",
+      "isActive": true,
+      "photoPath": "assets/images/Raju.png"
+    }
+  ]
+}
